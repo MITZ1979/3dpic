@@ -1,8 +1,8 @@
 html{
-	/*background:linear-gradient(#FF6666 0%,#336699 20%);*//*背景渐变颜色*/
-	background-image:url(../img/view.jpg);
-	 background-size: 100% auto ;
-    height: 100%;
+	background:linear-gradient(#FF6666 0%,#336699 20%);/*背景渐变颜色*/
+	/*background-image:url(../img/view.jpg);
+	 background-size: 100% auto ;*/
+    	height: 100%;
 	color:#99cc33;/*文字颜色*/
 
 }
